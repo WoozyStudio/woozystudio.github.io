@@ -9,7 +9,7 @@
 
 url a{
   color: #7A9175;
-  text-decoration: #97AD8E;
+  text-decoration: underline;
 }
 
 ::-webkit-scrollbar {
