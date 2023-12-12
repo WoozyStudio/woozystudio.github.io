@@ -1,3 +1,7 @@
-## Portfolio
+## Woozy's Studio portfolio
+[woozystudio.github.io](https://woozystudio.github.io)
 
-This is a beta of my Portfolio, this will be updated in the future.
+> .
+
+## Author
+WoozyStudio © 2023
